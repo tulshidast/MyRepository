@@ -1,0 +1,12 @@
+pages\AlertPage.class
+pages\LoginPage.class
+testcases\SelectDateFromDatePicker.class
+testcases\BrowserNavCommand.class
+testcases\HandleMultipleWindows.class
+testcases\HowToHandleFrame.class
+pages\MainPage.class
+testcases\HowToTakeScrenshot.class
+testcases\HowToHandleAlertAndExplicitWait.class
+testcases\HowTScrollTillEndOfThePage.class
+testcases\LoginFunctinality.class
+testcases\ReadingExcelFile.class
